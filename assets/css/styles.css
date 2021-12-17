@@ -1,7 +1,9 @@
 @import './buttons.css';
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap');
 
 body {
     background-color: #26B4BC;
+    font-family: 'Caesar Dressing', cursive;
 }
 
 .wraper {
